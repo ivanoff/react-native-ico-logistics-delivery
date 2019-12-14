@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Logistics Delivery Icons](static/logistics-delivery.md)
+- [List of Logistics Delivery Icons](http://ico.simpleness.org/pack/logistics-delivery)
 
 ## Installation
 
