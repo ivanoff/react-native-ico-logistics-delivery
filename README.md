@@ -1,8 +1,8 @@
-# Logistics Delivery Icons for React Native
+# logistics delivery Icons for React Native
 
 ### react-native-ico-logistics-delivery
 
-125 Icons
+369 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Logistics Delivery Icons](http://ico.simpleness.org/pack/logistics-delivery)
+- [List of logistics delivery Icons](http://ico.simpleness.org/pack/logistics-delivery)
 
 ## Installation
 
@@ -69,7 +69,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Icongeek26](https://www.flaticon.com/authors/icongeek26)
+[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
 ## Created by
 
