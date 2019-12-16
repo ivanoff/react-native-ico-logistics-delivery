@@ -1,8 +1,8 @@
-# logistics delivery Icons for React Native
+# Logistics Delivery Icons for React Native
 
 ### react-native-ico-logistics-delivery
 
-369 Icons
+125 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of logistics delivery Icons](http://ico.simpleness.org/pack/logistics-delivery)
+- [List of Logistics Delivery Icons](http://ico.simpleness.org/pack/logistics-delivery)
 
 ## Installation
 
